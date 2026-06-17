@@ -31,8 +31,12 @@ Exploratory analysis and price prediction.
 ### Procurement Light Matcher
 LLM-powered product matching system.
 
-![GitHub Stats](...)
-![Top Langs](...)
+## Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Schwarzepolizei&show_icons=true&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schwarzepolizei&layout=compact&theme=github_dark"/>
+</p>
 
 ## Contacts
 
