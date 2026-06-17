@@ -31,6 +31,9 @@ Exploratory analysis and price prediction.
 ### Procurement Light Matcher
 LLM-powered product matching system.
 
+![GitHub Stats](...)
+![Top Langs](...)
+
 ## Contacts
 
 Telegram: @yuraneuralink
