@@ -41,4 +41,5 @@ LLM-powered product matching system.
 ## Contacts
 
 Telegram: @yuraneuralink
+
 Email: schwarzepolizei@gmail.com
