@@ -42,28 +42,28 @@ LLM-powered product matching system.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Schwarzepolizei&label=Profile%20Views&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Schwarzepolizei&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Schwarzepolizei&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schwarzepolizei&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Schwarzepolizei&theme=github_dark" alt="Profile Summary" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Schwarzepolizei&theme=github-dark-blue&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Schwarzepolizei&theme=github_dark" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Schwarzepolizei&theme=github_dark" alt="Most Commit Language" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Schwarzepolizei&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Schwarzepolizei&theme=github_dark&utcOffset=4" alt="Productive Time" />
+</p>
+
 
 ## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Schwarzepolizei&theme=github-compact&hide_border=true" />
-</p>
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Schwarzepolizei&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1" />
 </p>
 
 
